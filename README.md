@@ -1,0 +1,1 @@
+Google extension for sending last ling to server by click.
